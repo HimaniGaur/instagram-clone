@@ -12,6 +12,9 @@ const Home = ()=>{
                 </div>
                 <div className="card-content">
                     <i className="material-icons" style={{color:"rgb(237, 73, 86)"}}>favorite</i>
+                    <i className="material-icons">thumb_up</i>
+                    <i className="material-icons">thumb_down</i>
+                    <h6>10 likes</h6>
                     <h6>title</h6>
                     <p>what a post</p>
                     <input type="text" placeholder="Comment..."/>
@@ -25,6 +28,9 @@ const Home = ()=>{
                 </div>
                 <div className="card-content">
                 <i className="material-icons" style={{color:"rgb(237, 73, 86)"}}>favorite</i>
+                <i className="material-icons">thumb_up</i>
+                <i className="material-icons">thumb_down</i>
+                    <h6>10 likes</h6>
                     <h6>title</h6>
                     <p>what a post</p>
                     <input type="text" placeholder="Comment..."/>
@@ -38,6 +44,9 @@ const Home = ()=>{
                 </div>
                 <div className="card-content">
                 <i className="material-icons" style={{color:"rgb(237, 73, 86)"}}>favorite</i>
+                <i className="material-icons">thumb_up</i>
+                <i className="material-icons">thumb_down</i>
+                    <h6>10 likes</h6>
                     <h6>title</h6>
                     <p>what a post</p>
                     <input type="text" placeholder="Comment..."/>
